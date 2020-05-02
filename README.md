@@ -1,6 +1,8 @@
 # senior_portfolio_tl_2020
 Portfolio of a few assignments from my undergrad
 
+Up to date [resume](https://docs.google.com/document/d/1wz6c62Eno_ECbQw1TZeaMRc_ayqPNk8JdW4xEwT7lCQ/edit?usp=sharing).
+
 First assignment [Software Engineering Final Project](https://github.com/GitGudDesu/Final-Release).
 
 I'm not listed as a contributor on this repo, but I did a substantial amount of work coding game mechanics and other features in the game.  This is a game developed on the Unity engine and the backend is written mostly in c#.  I learned c# specifically for this assignment and found it a slightly nicer version of Java in a lot of ways.  This was a 4 person team that split up the work to cover a lot of ground.  The app ended up looking really good and playing fairly well.  We worked together to put together an app that I think most of the class was impressed by, and I'm still proud of the work I did.  Working on this for a whole semester gave me significant experience working alone and in a group on a project like this.
@@ -22,8 +24,7 @@ Fifth assignment [Intro to Computer Science](https://github.com/t-liv057/turtles
 
 Thinking back this is the first time I contemplated the structure of software and why file systems are the way that they are.  I had never conceptualized what a program might look like in development, and this was one of my first times ever using Java.  There was a lot of shared misery in these classes because we all had so much learning to do, but ultimately there was a lot more teamwork in that class than many others.  I remember deciding that I was going to learn how to move the turtle about the screen to create the correct shape on the screen and not stopping for hours until I did.  Object oriented programming was so difficult for me to understand at first it's strange to think about now.  I think getting that turtle to create the correct start patter was one of the first times I was satisfied with a piece of code. 
 
-Resume
-Up to date [resume](https://docs.google.com/document/d/1wz6c62Eno_ECbQw1TZeaMRc_ayqPNk8JdW4xEwT7lCQ/edit?usp=sharing).
+
 
 
 
