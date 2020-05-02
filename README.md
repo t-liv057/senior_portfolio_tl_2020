@@ -3,6 +3,9 @@ Portfolio of a few assignments from my undergrad
 
 Up to date [resume](https://docs.google.com/document/d/1wz6c62Eno_ECbQw1TZeaMRc_ayqPNk8JdW4xEwT7lCQ/edit?usp=sharing).
 
+
+[Senior Project Thermoberry](https://github.com/t-liv057/Thermoberry).
+
 First assignment [Software Engineering Final Project](https://github.com/GitGudDesu/Final-Release).
 
 I'm not listed as a contributor on this repo, but I did a substantial amount of work coding game mechanics and other features in the game.  This is a game developed on the Unity engine and the backend is written mostly in c#.  I learned c# specifically for this assignment and found it a slightly nicer version of Java in a lot of ways.  This was a 4 person team that split up the work to cover a lot of ground.  The app ended up looking really good and playing fairly well.  We worked together to put together an app that I think most of the class was impressed by, and I'm still proud of the work I did.  Working on this for a whole semester gave me significant experience working alone and in a group on a project like this.
