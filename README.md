@@ -10,7 +10,7 @@ I'm not listed as a contributor on this repo, but I did a substantial amount of 
 
 Second assignment [Artificial Intelligence Research](https://github.com/t-liv057/tl_data_simulation_cmpt_301).
 
-This was a fun paper for me to write in artificial intelligence partly because it was a break from code, but also because it was a topic that interested me a lot.  I think the concept of creating quality data from smaller amounts of real data poses some cool possibilities, and learned that there's significant evidence to back it up as a strategy.  For me something like this is a great example of learning to solve problems with limited resources or information.  I think researching stuff like this benefited my problem solving skills tremendously.
+This was a fun paper for me to write in artificial intelligence partly because it was a break from code, but also because it was a topic that interested me a lot.  I think the concept of creating quality data from smaller amounts of real data poses some cool possibilities, and learned that there's significant evidence to back it up as a strategy.  For me something like this is a great example of learning to solve problems with limited resources or information.  I think researching stuff like this benefited my problem solving skills tremendously.  I can see something like this helping out the world as we ramp up a dependence on AI.  Data is definitely gold so being able to synthesize it and still describe reality with enough precision is amazing.  I think technology like this gives me a bigger sense of global responsability considering the potential.
 
 Third assignment [Computer Networks Chatroom](https://github.com/t-liv057/chat_room_cmpt_352).
 
